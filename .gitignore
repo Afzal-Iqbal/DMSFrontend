@@ -1,0 +1,11 @@
+﻿node_modules
+dist
+.vscode
+.DS_Store
+*.log
+coverage
+build
+.idea
+.vite
+config.bat
+node_modules
